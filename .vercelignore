@@ -1,0 +1,4 @@
+# Solo se despliega la pagina web (index.html); el esqueleto de Python no.
+pyproject.toml
+src
+tests
